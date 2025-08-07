@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'am Amar Kumar</h1>
+    <h1 align="center">Hi 👋, I'am Amar Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
+🌟 About Me
+
+🏫 Currently Studying: Btech at IIMT  University.
+🌱 Learning: Exploring advanced topics in [ "React.js" and "Node.js"].
+💡 Interests: [ "Web Development and Competitive Programming"].
+🌍 Goals: To contribute to impactful projects and continuously improve my skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
